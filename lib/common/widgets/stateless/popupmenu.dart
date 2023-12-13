@@ -1,0 +1,1 @@
+enum MenuItem { UpdateProfile, Logout }

@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "125288735086",
+    "project_id": "crel-site",
+    "storage_bucket": "crel-site.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125288735086:android:291feee1716a6e4f92617f",
+        "android_client_info": {
+          "package_name": "com.example.crel_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125288735086-7ukka66sfv4fhn3scjheos5cnjfna81v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crel_mobile",
+            "certificate_hash": "8baef99a7d6d4b2ab5e12d1c93b4827701e99d18"
+          }
+        },
+        {
+          "client_id": "125288735086-90v4vhtg2i14or6nhlt4oc7g7ginjn5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crel_mobile",
+            "certificate_hash": "07a54dcc80e73c7ded66bdf71e40ed99804b9812"
+          }
+        },
+        {
+          "client_id": "125288735086-ag74ptqun4f4orimjjg05hfophj1d0ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crel_mobile",
+            "certificate_hash": "faa9e2ad889c3d277ad0947ebe9a648438dccd4d"
+          }
+        },
+        {
+          "client_id": "125288735086-hkailftecjsups7t4ukhkf9duf9hf5sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crel_mobile",
+            "certificate_hash": "c0fc25b857917da2395934af22802c37c12d7801"
+          }
+        },
+        {
+          "client_id": "125288735086-q516aih34qnc9sgrf3kch7ulvnql02qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnH8ATc5cakmqlhZaEgNakThFgjCa4894"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125288735086-q516aih34qnc9sgrf3kch7ulvnql02qd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125288735086-s0jhe79a5dbg2s7n60iargfcb84cdu3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crelMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
